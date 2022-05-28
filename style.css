@@ -1,0 +1,44 @@
+.nav{
+    background-color: #181818;
+    height: 70px;
+}
+.nav-title{
+    color: white;
+    padding: 10px;
+    font-family: 'Baloo 2', cursive;
+
+}
+.nav-links{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-top: -4.3em ;
+    margin-right: 1em ;
+
+
+}
+li{
+    margin-left:15px;
+    margin-right:15px;
+    list-style: none
+    
+}
+a{
+
+    color: #C8C8C8;
+    font-family: 'Baloo 2', cursive;
+    text-decoration: none;
+}
+.btn{
+    color: white;
+    background-color: #33CCCC;
+    border: solid;
+    border-color: black;
+    box-shadow: 5px 5px black;
+    font-size: 20px;
+    font-family: 'Baloo 2', cursive;
+
+}
+.active{
+    color: white;
+}
