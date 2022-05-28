@@ -22,4 +22,4 @@ Using the following HTML
 
 # Style it using CSS to resemble the following navigation bar
 
-![]()
+![](https://github.com/HebaAlJassir/UX-UI-Week1-FlexNavBar/blob/main/flex-navbar.png)
